@@ -7,7 +7,7 @@ using namespace std;
 int main()
 {   
     int n;
-    cout<<"nhap n";
+    cout<<'enter n';
     cin>>n;
     cout<<n;
 }
